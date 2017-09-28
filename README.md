@@ -25,7 +25,7 @@ Coins / Tokens That Are Default To This Project:
 1. Download and install [Better Touch Tool](https://www.boastr.net/downloads/). It allows you to modify your touch bar and other cool things. It's a 45-day trial but "pay what you like" to register.
 2. In your Mac's menu bar, click the Better Touch Tool `icon > Preferences`.
 3. In the bottom left corner of the popup go to `Manage Presets`.
-4. Download this file - [Crypto.json](https://raw.githubusercontent.com/jakesorce/mac-crypto-touch-bar/master/Crypto.json)
+4. Download this file (Right click on the link and download file.) - [Crypto.json](https://raw.githubusercontent.com/jakesorce/mac-crypto-touch-bar/master/Crypto.json)
 5. Click the "Import" button and select the file you just downloaded.
 
 # Customization
