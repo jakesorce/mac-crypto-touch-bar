@@ -1,6 +1,8 @@
 # mac-crypto-touch-bar
 Crypto stock market prices for your Macbook Pro touch bar! Updated every minute.
 
+### Video Tutorial For Install / Customization Coming Soon!
+
 ![Screenshot](images/Crypto.jpg)
 
 Coins / Tokens That Are Default To This Project:
